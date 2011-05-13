@@ -1,0 +1,10 @@
+H:\Prototypes\ScriptSharp\Prototypes\TestBedjQuery\bin\TestBedjQuery.dll
+H:\Prototypes\ScriptSharp\Prototypes\TestBedjQuery\bin\TestBedjQuery.pdb
+H:\Prototypes\ScriptSharp\Prototypes\TestBedjQuery\obj\Debug\ResolveAssemblyReference.cache
+H:\Prototypes\ScriptSharp\Prototypes\TestBedjQuery\obj\Debug\TestBedjQuery.dll
+H:\Prototypes\ScriptSharp\Prototypes\TestBedjQuery\obj\Debug\TestBedjQuery.pdb
+H:\GitRepositories\ScriptSharpScrollPagerPlugin\TestBedjQuery\bin\TestBedjQuery.dll
+H:\GitRepositories\ScriptSharpScrollPagerPlugin\TestBedjQuery\bin\TestBedjQuery.pdb
+H:\GitRepositories\ScriptSharpScrollPagerPlugin\TestBedjQuery\obj\Debug\ResolveAssemblyReference.cache
+H:\GitRepositories\ScriptSharpScrollPagerPlugin\TestBedjQuery\obj\Debug\TestBedjQuery.dll
+H:\GitRepositories\ScriptSharpScrollPagerPlugin\TestBedjQuery\obj\Debug\TestBedjQuery.pdb

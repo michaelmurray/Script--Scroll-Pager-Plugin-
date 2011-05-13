@@ -1,0 +1,71 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="410ED4A3-793B-4368-B4C0-B2677E7D6EEB/d:Views/d:Shared/f:Site.Master" caret="423" fromTop="8" />
+      <File id="410ED4A3-793B-4368-B4C0-B2677E7D6EEB/d:Scripts/f:scrollpager.js" caret="544" fromTop="0" />
+      <File id="410ED4A3-793B-4368-B4C0-B2677E7D6EEB/d:Scripts/f:jquery-1.4.4.min.js" caret="20888" fromTop="16" />
+      <File id="410ED4A3-793B-4368-B4C0-B2677E7D6EEB/d:Views/d:Home/f:Index.aspx" caret="3329" fromTop="0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="410ED4A3-793B-4368-B4C0-B2677E7D6EEB/d:Views/d:Home/f:Index.aspx" caret="8246" fromTop="20" />
+      <File id="410ED4A3-793B-4368-B4C0-B2677E7D6EEB/d:Views/d:Home/f:Index.aspx" caret="8246" fromTop="8" />
+      <File id="410ED4A3-793B-4368-B4C0-B2677E7D6EEB/d:Views/d:Home/f:Index.aspx" caret="8246" fromTop="11" />
+      <File id="410ED4A3-793B-4368-B4C0-B2677E7D6EEB/d:Views/d:Home/f:Index.aspx" caret="8246" fromTop="20" />
+      <File id="410ED4A3-793B-4368-B4C0-B2677E7D6EEB/d:Views/d:Home/f:Index.aspx" caret="8246" fromTop="20" />
+      <File id="410ED4A3-793B-4368-B4C0-B2677E7D6EEB/d:Views/d:Home/f:Index.aspx" caret="5923" fromTop="24" />
+      <File id="410ED4A3-793B-4368-B4C0-B2677E7D6EEB/d:Views/d:Home/f:Index.aspx" caret="8246" fromTop="13" />
+      <File id="410ED4A3-793B-4368-B4C0-B2677E7D6EEB/d:Views/d:Home/f:Index.aspx" caret="5923" fromTop="22" />
+      <File id="410ED4A3-793B-4368-B4C0-B2677E7D6EEB/d:Views/d:Home/f:Index.aspx" caret="8246" fromTop="24" />
+      <File id="410ED4A3-793B-4368-B4C0-B2677E7D6EEB/d:Views/d:Home/f:Index.aspx" caret="6544" fromTop="22" />
+      <File id="410ED4A3-793B-4368-B4C0-B2677E7D6EEB/d:Views/d:Home/f:Index.aspx" caret="5923" fromTop="26" />
+      <File id="410ED4A3-793B-4368-B4C0-B2677E7D6EEB/d:Views/d:Home/f:Index.aspx" caret="8346" fromTop="23" />
+      <File id="410ED4A3-793B-4368-B4C0-B2677E7D6EEB/d:Views/d:Home/f:Index.aspx" caret="5923" fromTop="21" />
+      <File id="410ED4A3-793B-4368-B4C0-B2677E7D6EEB/d:Views/d:Home/f:Index.aspx" caret="6853" fromTop="22" />
+      <File id="410ED4A3-793B-4368-B4C0-B2677E7D6EEB/d:Views/d:Home/f:Index.aspx" caret="7886" fromTop="21" />
+      <File id="410ED4A3-793B-4368-B4C0-B2677E7D6EEB/d:Views/d:Home/f:Index.aspx" caret="5923" fromTop="20" />
+      <File id="410ED4A3-793B-4368-B4C0-B2677E7D6EEB/d:Views/d:Home/f:Index.aspx" caret="5923" fromTop="9" />
+      <File id="410ED4A3-793B-4368-B4C0-B2677E7D6EEB/d:Views/d:Home/f:Index.aspx" caret="5923" fromTop="16" />
+      <File id="410ED4A3-793B-4368-B4C0-B2677E7D6EEB/d:Views/d:Home/f:Index.aspx" caret="6390" fromTop="23" />
+      <File id="410ED4A3-793B-4368-B4C0-B2677E7D6EEB/d:Views/d:Home/f:Index.aspx" caret="5992" fromTop="14" />
+      <File id="410ED4A3-793B-4368-B4C0-B2677E7D6EEB/d:Views/d:Home/f:Index.aspx" caret="6201" fromTop="19" />
+      <File id="410ED4A3-793B-4368-B4C0-B2677E7D6EEB/d:Views/d:Home/f:Index.aspx" caret="5480" fromTop="23" />
+      <File id="410ED4A3-793B-4368-B4C0-B2677E7D6EEB/d:Views/d:Home/f:Index.aspx" caret="5480" fromTop="18" />
+      <File id="410ED4A3-793B-4368-B4C0-B2677E7D6EEB/d:Views/d:Home/f:Index.aspx" caret="5480" fromTop="17" />
+      <File id="410ED4A3-793B-4368-B4C0-B2677E7D6EEB/d:Views/d:Home/f:Index.aspx" caret="5852" fromTop="29" />
+      <File id="410ED4A3-793B-4368-B4C0-B2677E7D6EEB/d:Views/d:Home/f:Index.aspx" caret="5758" fromTop="25" />
+      <File id="410ED4A3-793B-4368-B4C0-B2677E7D6EEB/d:Views/d:Home/f:Index.aspx" caret="8287" fromTop="14" />
+      <File id="410ED4A3-793B-4368-B4C0-B2677E7D6EEB/d:Views/d:Home/f:Index.aspx" caret="3329" fromTop="10" />
+      <File id="410ED4A3-793B-4368-B4C0-B2677E7D6EEB/d:Views/d:Home/f:Index.aspx" caret="4079" fromTop="17" />
+      <File id="410ED4A3-793B-4368-B4C0-B2677E7D6EEB/d:Views/d:Home/f:Index.aspx" caret="2974" fromTop="20" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="ScriptName" priority="0" />
+      <Item value="ResultManager`0" priority="0" />
+      <Item value="new" priority="0" />
+      <Item value="ThumbnailListManager`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Plugins.ResultManager.ResultManager">
+      <Item value="SetResultListManager`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
