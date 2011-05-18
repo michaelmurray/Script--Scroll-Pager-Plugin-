@@ -8,44 +8,25 @@
   </SettingsComponent>
   <RecentFiles>
     <RecentFiles>
-      <File id="410ED4A3-793B-4368-B4C0-B2677E7D6EEB/d:Views/d:Shared/f:Site.Master" caret="423" fromTop="8" />
       <File id="410ED4A3-793B-4368-B4C0-B2677E7D6EEB/d:Scripts/f:scrollpager.js" caret="544" fromTop="0" />
       <File id="410ED4A3-793B-4368-B4C0-B2677E7D6EEB/d:Scripts/f:jquery-1.4.4.min.js" caret="20888" fromTop="16" />
-      <File id="410ED4A3-793B-4368-B4C0-B2677E7D6EEB/d:Scripts/d:Generated/f:ScrollPager.debug.js" caret="46" fromTop="3" />
-      <File id="410ED4A3-793B-4368-B4C0-B2677E7D6EEB/d:Views/d:Home/f:Index.aspx" caret="5882" fromTop="18" />
-      <File id="87827A9F-6D5A-4792-A995-8396746844A9/f:ScrollPagerPlugin.cs" caret="943" fromTop="18" />
+      <File id="410ED4A3-793B-4368-B4C0-B2677E7D6EEB/d:Views/d:Home/f:Index.aspx" caret="0" fromTop="0" />
+      <File id="410ED4A3-793B-4368-B4C0-B2677E7D6EEB/d:Views/d:Shared/f:Site.Master" caret="558" fromTop="9" />
     </RecentFiles>
     <RecentEdits>
-      <File id="410ED4A3-793B-4368-B4C0-B2677E7D6EEB/d:Views/d:Home/f:Index.aspx" caret="5923" fromTop="9" />
-      <File id="410ED4A3-793B-4368-B4C0-B2677E7D6EEB/d:Views/d:Home/f:Index.aspx" caret="5923" fromTop="16" />
-      <File id="410ED4A3-793B-4368-B4C0-B2677E7D6EEB/d:Views/d:Home/f:Index.aspx" caret="6390" fromTop="23" />
-      <File id="410ED4A3-793B-4368-B4C0-B2677E7D6EEB/d:Views/d:Home/f:Index.aspx" caret="5992" fromTop="14" />
-      <File id="410ED4A3-793B-4368-B4C0-B2677E7D6EEB/d:Views/d:Home/f:Index.aspx" caret="6201" fromTop="19" />
-      <File id="410ED4A3-793B-4368-B4C0-B2677E7D6EEB/d:Views/d:Home/f:Index.aspx" caret="5480" fromTop="23" />
-      <File id="410ED4A3-793B-4368-B4C0-B2677E7D6EEB/d:Views/d:Home/f:Index.aspx" caret="5480" fromTop="18" />
-      <File id="410ED4A3-793B-4368-B4C0-B2677E7D6EEB/d:Views/d:Home/f:Index.aspx" caret="5480" fromTop="17" />
-      <File id="410ED4A3-793B-4368-B4C0-B2677E7D6EEB/d:Views/d:Home/f:Index.aspx" caret="5852" fromTop="29" />
-      <File id="410ED4A3-793B-4368-B4C0-B2677E7D6EEB/d:Views/d:Home/f:Index.aspx" caret="5758" fromTop="25" />
-      <File id="410ED4A3-793B-4368-B4C0-B2677E7D6EEB/d:Views/d:Home/f:Index.aspx" caret="8287" fromTop="14" />
-      <File id="410ED4A3-793B-4368-B4C0-B2677E7D6EEB/d:Views/d:Home/f:Index.aspx" caret="3329" fromTop="10" />
-      <File id="410ED4A3-793B-4368-B4C0-B2677E7D6EEB/d:Views/d:Home/f:Index.aspx" caret="4079" fromTop="17" />
-      <File id="410ED4A3-793B-4368-B4C0-B2677E7D6EEB/d:Views/d:Home/f:Index.aspx" caret="2974" fromTop="20" />
-      <File id="87827A9F-6D5A-4792-A995-8396746844A9/f:ScrollPagerPlugin.cs" caret="3711" fromTop="16" />
-      <File id="87827A9F-6D5A-4792-A995-8396746844A9/f:ScrollPagerPlugin.cs" caret="3654" fromTop="14" />
-      <File id="87827A9F-6D5A-4792-A995-8396746844A9/f:ScrollPagerPlugin.cs" caret="3555" fromTop="4" />
-      <File id="87827A9F-6D5A-4792-A995-8396746844A9/f:ScrollPagerPlugin.cs" caret="384" fromTop="10" />
-      <File id="87827A9F-6D5A-4792-A995-8396746844A9/f:ScrollPagerPlugin.cs" caret="1482" fromTop="9" />
-      <File id="87827A9F-6D5A-4792-A995-8396746844A9/f:ScrollPagerPlugin.cs" caret="961" fromTop="4" />
-      <File id="87827A9F-6D5A-4792-A995-8396746844A9/f:ScrollPagerPlugin.cs" caret="2794" fromTop="23" />
-      <File id="87827A9F-6D5A-4792-A995-8396746844A9/f:ScrollPagerPlugin.cs" caret="2802" fromTop="6" />
-      <File id="87827A9F-6D5A-4792-A995-8396746844A9/f:ScrollPagerPlugin.cs" caret="3143" fromTop="16" />
-      <File id="87827A9F-6D5A-4792-A995-8396746844A9/f:ScrollPagerPlugin.cs" caret="3465" fromTop="24" />
-      <File id="87827A9F-6D5A-4792-A995-8396746844A9/f:ScrollPagerPlugin.cs" caret="946" fromTop="17" />
-      <File id="87827A9F-6D5A-4792-A995-8396746844A9/f:ScrollPagerPlugin.cs" caret="4045" fromTop="19" />
-      <File id="87827A9F-6D5A-4792-A995-8396746844A9/f:ScrollPagerPlugin.cs" caret="4016" fromTop="20" />
-      <File id="87827A9F-6D5A-4792-A995-8396746844A9/f:ScrollPagerPlugin.cs" caret="2113" fromTop="22" />
-      <File id="87827A9F-6D5A-4792-A995-8396746844A9/f:ScrollPagerPlugin.cs" caret="652" fromTop="13" />
-      <File id="87827A9F-6D5A-4792-A995-8396746844A9/f:ScrollPagerPlugin.cs" caret="943" fromTop="18" />
+      <File id="410ED4A3-793B-4368-B4C0-B2677E7D6EEB/d:Views/d:Home/f:Index.aspx" caret="8881" fromTop="23" />
+      <File id="410ED4A3-793B-4368-B4C0-B2677E7D6EEB/d:Views/d:Home/f:Index.aspx" caret="8881" fromTop="14" />
+      <File id="410ED4A3-793B-4368-B4C0-B2677E7D6EEB/d:Views/d:Home/f:Index.aspx" caret="8881" fromTop="19" />
+      <File id="410ED4A3-793B-4368-B4C0-B2677E7D6EEB/d:Views/d:Home/f:Index.aspx" caret="8881" fromTop="23" />
+      <File id="410ED4A3-793B-4368-B4C0-B2677E7D6EEB/d:Views/d:Home/f:Index.aspx" caret="8881" fromTop="18" />
+      <File id="410ED4A3-793B-4368-B4C0-B2677E7D6EEB/d:Views/d:Home/f:Index.aspx" caret="8881" fromTop="17" />
+      <File id="410ED4A3-793B-4368-B4C0-B2677E7D6EEB/d:Views/d:Home/f:Index.aspx" caret="8881" fromTop="29" />
+      <File id="410ED4A3-793B-4368-B4C0-B2677E7D6EEB/d:Views/d:Home/f:Index.aspx" caret="8881" fromTop="25" />
+      <File id="410ED4A3-793B-4368-B4C0-B2677E7D6EEB/d:Views/d:Home/f:Index.aspx" caret="8881" fromTop="14" />
+      <File id="410ED4A3-793B-4368-B4C0-B2677E7D6EEB/d:Views/d:Home/f:Index.aspx" caret="8881" fromTop="10" />
+      <File id="410ED4A3-793B-4368-B4C0-B2677E7D6EEB/d:Views/d:Home/f:Index.aspx" caret="8881" fromTop="17" />
+      <File id="410ED4A3-793B-4368-B4C0-B2677E7D6EEB/d:Views/d:Home/f:Index.aspx" caret="8881" fromTop="20" />
+      <File id="410ED4A3-793B-4368-B4C0-B2677E7D6EEB/d:Views/d:Shared/f:Site.Master" caret="558" fromTop="9" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>

@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestBedjQuery", "TestBedjQu
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ScrollPager", "ScrollPager", "{E469F739-C0BA-4983-B823-10687C4A17FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScrollPager", "ScrollPager\ScrollPager.csproj", "{87827A9F-6D5A-4792-A995-8396746844A9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScrollPagerPlugin", "ScrollPagerPlugin\ScrollPagerPlugin.csproj", "{83C3E338-7347-42D7-8F8E-C5C8D4BBE8DB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,16 +21,16 @@ Global
 		{410ED4A3-793B-4368-B4C0-B2677E7D6EEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{410ED4A3-793B-4368-B4C0-B2677E7D6EEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{410ED4A3-793B-4368-B4C0-B2677E7D6EEB}.Release|Any CPU.Build.0 = Release|Any CPU
-		{87827A9F-6D5A-4792-A995-8396746844A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{87827A9F-6D5A-4792-A995-8396746844A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{87827A9F-6D5A-4792-A995-8396746844A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{87827A9F-6D5A-4792-A995-8396746844A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83C3E338-7347-42D7-8F8E-C5C8D4BBE8DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83C3E338-7347-42D7-8F8E-C5C8D4BBE8DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83C3E338-7347-42D7-8F8E-C5C8D4BBE8DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83C3E338-7347-42D7-8F8E-C5C8D4BBE8DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{E469F739-C0BA-4983-B823-10687C4A17FF} = {063B394A-8881-46A5-B512-3E61DA995458}
-		{87827A9F-6D5A-4792-A995-8396746844A9} = {E469F739-C0BA-4983-B823-10687C4A17FF}
+		{83C3E338-7347-42D7-8F8E-C5C8D4BBE8DB} = {E469F739-C0BA-4983-B823-10687C4A17FF}
 	EndGlobalSection
 EndGlobal

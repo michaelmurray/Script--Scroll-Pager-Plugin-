@@ -123,12 +123,30 @@
 
 		.thumb
 		{
-			width:100%;
+			border:1px solid #999999;
+			border-radius: 3px;
+			background-color:Grey;
+			width:90%;
+			margin-left:auto;
+			margin-right:auto;
 			position:absolute;
 			top:0px;
 			z-index:10;
-			background-color:Red;
+
 		}
+
+		.sliderPage
+		{
+			width:100%;
+			height:100%;
+		}
+
+		.sliderThumb
+		{
+			width:100%;
+			height:100%;
+		}
+
 	</style>
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
@@ -138,14 +156,36 @@
     </p>
 	 <div id="listcontainerdiv" class="listcontainer" style="width:100%; height:200px; border:1px solid black;">   
 		<ul class="pageMe">
-			<li>item1</li><li>item2</li><li>item3</li><li>item4</li><li>item5</li><li>item6</li><li>item7</li><li>item8</li><li>item9</li><li>item10</li><li>item11</li><li>item12</li><li>item13</li><li>item14</li><li>item15</li><li>item16</li><li>item17</li><li>item18</li><li>item19</li><li>item20</li><li>item21</li><li>item22</li><li>item23</li>
+			<li>item1</li>
+			<li>item2</li>
+			<li>item3</li>
+			<li>item4</li>
+			<li>item5</li>
+			<li>item6</li>
+			<li>item7</li>
+			<li>item8</li>
+			<li>item9</li>
+			<li>item10</li>
+			<li>item11</li>
+			<li>item12</li>
+			<li>item13</li>
+			<li>item14</li>
+			<li>item15</li>
+			<li>item16</li>
+			<li>item17</li>
+			<li>item18</li>
+			<li>item19</li>
+			<li>item20</li>
+			<li>item21</li>
+			<li>item22</li>
+			<li>item23</li>
 		</ul>
 		<div class="scrollContainer"></div>
     </div>
 		<script type="text/javascript">
 			$(document).ready(function ()
 			{
-				$.fn.scrollPager = function scrollPager(options)
+				$.fn.scrollPagerOld = function scrollPagerOld(options)
 				{
 
 					var defaults = {
@@ -153,7 +193,7 @@
 						currentPage: 1,
 						holder: "",
 						viewport: "",
-						pageHeight: 0, 
+						pageHeight: 0,
 						onPageChanged: null
 					};
 					var options = $.extend(defaults, options);
@@ -257,20 +297,20 @@
 					function setEvents()
 					{
 						oThumb.live('mousedown', start);
-						oThumb[0].ontouchstart = function (oEvent)
-						{
-							oEvent.preventDefault();
-							oThumb.die('mousedown');
-							start(oEvent.touches[0]);
-							return false;
-						}
+						//						oThumb[0].ontouchstart = function (oEvent)
+						//						{
+						//							oEvent.preventDefault();
+						//							oThumb.die('mousedown');
+						//							start(oEvent.touches[0]);
+						//							return false;
+						//						}
 						oTrack.live('mouseup', drag);
-						if (options.scroll && this.addEventListener)
-						{
-							oViewPort[0].addEventListener('DOMMouseScroll', wheel, false);
-							oViewPort[0].addEventListener('mousewheel', wheel, false);
-						}
-						else if (options.scroll) { oViewPort[0].onmousewheel = wheel; }
+						//						if (options.scroll && this.addEventListener)
+						//						{
+						//							oViewPort[0].addEventListener('DOMMouseScroll', wheel, false);
+						//							oViewPort[0].addEventListener('mousewheel', wheel, false);
+						//						}
+						//						else if (options.scroll) { oViewPort[0].onmousewheel = wheel; }
 					};
 					function start(oEvent)
 					{
@@ -278,19 +318,19 @@
 						var oThumbDir = parseInt(oThumb.css('top'));
 						iPosition.start = oThumbDir == 'auto' ? 0 : oThumbDir;
 						$(document).bind('mousemove', drag);
-						document.ontouchmove = function (oEvent)
-						{
-							$(document).unbind('mousemove');
-							drag(oEvent.touches[0]);
-						};
+						//						document.ontouchmove = function (oEvent)
+						//						{
+						//							$(document).unbind('mousemove');
+						//							drag(oEvent.touches[0]);
+						//						};
 						$(document).bind('mouseup', end);
 						oThumb.live('mouseup', end);
-						oThumb[0].ontouchend = document.ontouchend = function (oEvent)
-						{
-							$(document).unbind('mouseup');
-							oThumb.die('mouseup');
-							end(oEvent.touches[0]);
-						}
+						//						oThumb[0].ontouchend = document.ontouchend = function (oEvent)
+						//						{
+						//							$(document).unbind('mouseup');
+						//							oThumb.die('mouseup');
+						//							end(oEvent.touches[0]);
+						//						}
 						return false;
 					};
 					function drag(oEvent)
@@ -313,11 +353,16 @@
 				}
 
 
-				$("ul.pageMe").scrollPager({
-					pageSize: 5,
+				$("ul.pageMe").scrollPagerPlugin({
+					pageSize: 10,
 					currentPage: 1,
 					holder: ".listcontainer",
-					container: "#listcontainerdiv"
+					container: "#listcontainerdiv",
+					totalRecords: 23,
+					viewport: "",
+					pageHeight: 200,
+					onPageChanged: function (o, e) { window.alert("Selected Page: " + e.selectedPage); },
+					scroll: null
 				});
 			});
 	</script>
