@@ -68,6 +68,10 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Global.asax" />
+    <Content Include="Scripts\Generated\mscorlib.debug.js" />
+    <Content Include="Scripts\Generated\mscorlib.js" />
+    <Content Include="Scripts\Generated\ScrollPager.debug.js" />
+    <Content Include="Scripts\Generated\ScrollPager.js" />
     <Content Include="Scripts\scrollpager.js" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
